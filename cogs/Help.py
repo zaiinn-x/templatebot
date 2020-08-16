@@ -2,7 +2,6 @@ import discord
 import datetime
 from discord.ext import commands
 
-NUM = 51
 COLOR = 0xe10505
 
 class Help(commands.Cog):

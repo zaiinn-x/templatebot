@@ -3,7 +3,6 @@ import datetime
 from discord.ext import commands
 from discord.utils import get
 
-NUM = 51
 COLOR = 0xe10505
 
 class User(commands.Cog):

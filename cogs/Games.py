@@ -4,7 +4,6 @@ import os
 import subprocess
 from discord.ext import commands
 
-NUM = 51
 COLOR = 0xe10505
 
 eightballlist = ["yeah", "perhaps", "ofc", "next question",
